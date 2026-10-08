@@ -11,3 +11,5 @@ https://github.com/pypa/sampleproject
 
 Fetch upstream history before reviewing and integrating updates. Push practice
 changes to origin. Contributions to the original project require separate review.
+
+`git fetch` downloads Git history without changing your working files.
